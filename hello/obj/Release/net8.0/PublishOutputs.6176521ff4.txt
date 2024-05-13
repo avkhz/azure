@@ -1,0 +1,5 @@
+/home/avihu/studies/dotnet/hello/bin/Release/net8.0/publish/hello
+/home/avihu/studies/dotnet/hello/bin/Release/net8.0/publish/hello.dll
+/home/avihu/studies/dotnet/hello/bin/Release/net8.0/publish/hello.deps.json
+/home/avihu/studies/dotnet/hello/bin/Release/net8.0/publish/hello.runtimeconfig.json
+/home/avihu/studies/dotnet/hello/bin/Release/net8.0/publish/hello.pdb
