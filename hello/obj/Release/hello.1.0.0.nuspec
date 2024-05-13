@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>hello</id>
+    <version>1.0.0</version>
+    <authors>hello</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="/home/avihu/studies/dotnet/hello/obj/DotnetToolSettings.xml" target="tools/net8.0/any/DotnetToolSettings.xml" />
+    <file src="/home/avihu/studies/dotnet/hello/bin/Release/net8.0/publish/hello.dll" target="tools/net8.0/any/hello.dll" />
+    <file src="/home/avihu/studies/dotnet/hello/bin/Release/net8.0/publish/hello.deps.json" target="tools/net8.0/any/hello.deps.json" />
+    <file src="/home/avihu/studies/dotnet/hello/bin/Release/net8.0/publish/hello.runtimeconfig.json" target="tools/net8.0/any/hello.runtimeconfig.json" />
+    <file src="/home/avihu/studies/dotnet/hello/bin/Release/net8.0/publish/hello.pdb" target="tools/net8.0/any/hello.pdb" />
+  </files>
+</package>
