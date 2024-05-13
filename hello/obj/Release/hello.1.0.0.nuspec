@@ -8,7 +8,7 @@
     <packageTypes>
       <packageType name="DotnetTool" />
     </packageTypes>
-    <repository type="git" />
+    <repository type="git" commit="69b4b0dabce86ef35d0819860ef4e657f6a7ea78" />
   </metadata>
   <files>
     <file src="/home/avihu/studies/dotnet/hello/obj/DotnetToolSettings.xml" target="tools/net8.0/any/DotnetToolSettings.xml" />
