@@ -40,7 +40,7 @@ jobs:
    
   - task: SonarQubePrepare@5
     inputs:
-      SonarQube: 'my_sonarqube'
+      SonarQube: 'sonarqube_connection'
       scannerMode: 'MSBuild'
       projectKey: 'project_project_0c75068c-fd41-4460-831b-3d5628bfa627'
     
