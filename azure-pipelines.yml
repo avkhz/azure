@@ -20,6 +20,5 @@ steps:
     projects: '*/*.csproj'
     
 
-- script: echo $MYSECRET
-  env:
-    MYSECRET: $(pwd)
+- script: pwd
+ 
