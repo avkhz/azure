@@ -12,3 +12,4 @@
 /home/avihu/studies/dotnet/hello/obj/Debug/net8.0/hello.pdb
 /home/avihu/studies/dotnet/hello/obj/Debug/net8.0/hello.genruntimeconfig.cache
 /home/avihu/studies/dotnet/hello/obj/Debug/net8.0/ref/hello.dll
+/home/avihu/studies/dotnet/hello/obj/Debug/net8.0/hello.sourcelink.json
