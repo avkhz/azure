@@ -23,8 +23,8 @@ jobs:
     
   steps:
 
-  - script: dotnet new console -o $(app_name)
-    displayName: 'Create app'
+ # - script: dotnet new console -o $(app_name)
+ #   displayName: 'Create app'
   
   - script: cd ./$(app_name) && dotnet restore
 
