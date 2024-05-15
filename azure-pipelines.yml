@@ -18,3 +18,11 @@ steps:
   inputs:
     command: 'build'
     projects: '*/*.csproj'
+    
+
+- task: CmdLine@2
+  inputs:
+    script: |
+      echo  '$(System.DefaultWorkingDirectory)'
+      dir
+      dir subfoldername    
