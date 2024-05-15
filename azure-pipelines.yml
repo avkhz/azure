@@ -17,7 +17,8 @@ steps:
   displayName: 'dotnet build'
   inputs:
     command: 'build'
-    projects: '*/*.csproj'
+ #   projects: '*/*.csproj'
+    projects: './hello/.hello.csproj'
     
 
 - script: pwd
