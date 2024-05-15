@@ -14,13 +14,14 @@
         "outputPath": "/home/avihu/studies/dotnet/avihu_app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+          "/home/avihu/studies/dotnet/avihu_app/nuget.config",
           "/home/avihu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://pkgs.dev.azure.com/avihulink/_packaging/avihulink/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
