@@ -3,7 +3,7 @@ trigger:
 
 pool:
   vmImage: 'ubuntu-latest'
-  name: 'deasfkla;fkfault'
+  name: 'deault'
 
   
 variables:
