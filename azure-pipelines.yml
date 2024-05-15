@@ -18,7 +18,7 @@ steps:
   inputs:
     command: 'build'
  #   projects: '*/*.csproj'
-    projects: './hello/.hello.csproj'
+    projects: '/home/avihu/Downloads/myagent/_work/1/s/hello/hello.csproj'
     
 
 - script: pwd
