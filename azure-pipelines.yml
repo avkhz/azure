@@ -20,9 +20,6 @@ steps:
     projects: '*/*.csproj'
     
 
-- task: CmdLine@2
-  inputs:
-    script: |
-      echo  '$(System.DefaultWorkingDirectory)'
-      dir
-      dir subfoldername    
+- script: echo $MYSECRET
+  env:
+    MYSECRET: $(pwd)
