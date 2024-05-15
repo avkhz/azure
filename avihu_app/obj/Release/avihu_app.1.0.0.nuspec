@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>avihu_app</id>
+    <version>1.0.0</version>
+    <authors>avihu_app</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="0cf0f2c06156ced0f79cb861db36e2a5bd676a9d" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/avihu/studies/dotnet/avihu_app/bin/Release/net8.0/avihu_app.runtimeconfig.json" target="lib/net8.0/avihu_app.runtimeconfig.json" />
+    <file src="/home/avihu/studies/dotnet/avihu_app/bin/Release/net8.0/avihu_app.dll" target="lib/net8.0/avihu_app.dll" />
+  </files>
+</package>

@@ -1,0 +1,15 @@
+/home/avihu/studies/dotnet/avihu_app/bin/Release/net8.0/avihu_app
+/home/avihu/studies/dotnet/avihu_app/bin/Release/net8.0/avihu_app.deps.json
+/home/avihu/studies/dotnet/avihu_app/bin/Release/net8.0/avihu_app.runtimeconfig.json
+/home/avihu/studies/dotnet/avihu_app/bin/Release/net8.0/avihu_app.dll
+/home/avihu/studies/dotnet/avihu_app/bin/Release/net8.0/avihu_app.pdb
+/home/avihu/studies/dotnet/avihu_app/obj/Release/net8.0/avihu_app.GeneratedMSBuildEditorConfig.editorconfig
+/home/avihu/studies/dotnet/avihu_app/obj/Release/net8.0/avihu_app.AssemblyInfoInputs.cache
+/home/avihu/studies/dotnet/avihu_app/obj/Release/net8.0/avihu_app.AssemblyInfo.cs
+/home/avihu/studies/dotnet/avihu_app/obj/Release/net8.0/avihu_app.csproj.CoreCompileInputs.cache
+/home/avihu/studies/dotnet/avihu_app/obj/Release/net8.0/avihu_app.sourcelink.json
+/home/avihu/studies/dotnet/avihu_app/obj/Release/net8.0/avihu_app.dll
+/home/avihu/studies/dotnet/avihu_app/obj/Release/net8.0/refint/avihu_app.dll
+/home/avihu/studies/dotnet/avihu_app/obj/Release/net8.0/avihu_app.pdb
+/home/avihu/studies/dotnet/avihu_app/obj/Release/net8.0/avihu_app.genruntimeconfig.cache
+/home/avihu/studies/dotnet/avihu_app/obj/Release/net8.0/ref/avihu_app.dll
