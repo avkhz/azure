@@ -19,6 +19,11 @@ steps:
     command: 'build'
  #   projects: '*/*.csproj'
     projects: '/home/avihu/Downloads/myagent/_work/1/s/hello/hello.csproj'
+    #OUTPUT   hello -> /home/avihu/Downloads/myagent/_work/1/s/hello/bin/Debug/net8.0/hello.dll
+  
+- publish: $(System.DefaultWorkingDirectory)/bin/Debug/net8.0/hello.dll
+  artifact: hello.dll  
+
     
 
 - script: pwd
